@@ -2,7 +2,7 @@
 
 <h1>I'm @anshika6392 </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=@anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
 
 - 🔭 I’m currently learning **Next js and Typescript**
 
@@ -46,5 +46,5 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=@anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span><span> <img align="center" src="https://streak-stats.demolab.com?user=@anshika6392" /> </p></span>
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span><span> <img align="center" src="https://streak-stats.demolab.com?user=anshika6392" /> </p></span>
 
