@@ -46,5 +46,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span><span> <img align="center" src="https://streak-stats.demolab.com?user=anshika6392" /> </p></span>
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span>
 
+### Streak Record
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anshika6392)
