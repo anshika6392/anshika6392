@@ -44,7 +44,6 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-
 <span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span>
 
 ### Streak Record
