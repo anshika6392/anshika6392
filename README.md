@@ -2,7 +2,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
 
 <h3 align="center">A passionate FullStack Developer from India</h3>
-
 - 🔭 I’m currently learning **Next js & JAVA programming**
 
 - 💬 Ask me about *FullStack Web Development, Java Programming and MERN Stack Development*
