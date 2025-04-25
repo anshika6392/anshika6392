@@ -1,5 +1,4 @@
 <h1>I'm @anshika6392</h1>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
 
 <h3 align="center">A passionate FullStack Developer from India</h3>
