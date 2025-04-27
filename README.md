@@ -1,6 +1,4 @@
-<h1>Hii I'm @anshika6392</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
-
+<h2 align="center">I'm @Anshika6392</h2>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 - 🔭 I’m currently learning **Next js & JAVA programming**
 
@@ -42,6 +40,8 @@
 ### Others
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=anshika6392&label=Profile%20views&color=0e75b6&style=flat" alt=" @anshika6392" /> </p>
 
 <span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika6392&show_icons=true&locale=en" alt="@anshika6392" /></span>
 
