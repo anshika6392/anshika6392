@@ -2,6 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 - 🔭 I’m currently learning **Next js & JAVA programming**
 
+
 - 💬 Ask me about *FullStack Web Development, Java Programming and MERN Stack Development*
 
 - 📫 How to reach me **anshikatrivedi31@gmail.com**
